@@ -1,0 +1,19 @@
+.products{
+    display: flex;
+    border-bottom: 2px solid lightgrey;
+}
+products-img{
+    padding-left: 150px;
+}
+.products-second-div{
+    padding: 30px 30px;
+    }
+.cart-button{
+    background-color: gold;
+    width: 100px;
+    height: 50px;
+    border: 1px solid grey;
+    border-radius: 5px;
+    font-weight: 600;
+    cursor: pointer;
+}
